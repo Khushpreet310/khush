@@ -1,0 +1,48 @@
+#h1 {
+	font-size: 60px;
+	color:darkblue;
+	font-weight: bold;
+	text-align: left;
+	height: 100px;
+
+}
+header {
+	background-color: lightgreen;
+
+}
+#chicken {
+	color:blue;
+	font-size: 30px;
+	font-weight: bold;
+
+}
+#beef {
+	color: yellow;
+	font-weight: bold;
+	font-size: 30px;
+}
+#sushi {
+	color: green;
+	font-size: 30px;
+	font-weight: bold;
+}
+p{
+	font-size: 26px;
+	color: black;
+	background-color: lightpink;
+}
+h2 {
+	font-weight: bold;
+	font-size: 35px;
+	color: black;
+	text-align: center;
+
+}
+#h {
+	color: white;
+	background-color: maroon;
+	font-size: 40px;
+	font-weight: bolder;
+	text-align: center;
+	height:60px;
+}
